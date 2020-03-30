@@ -1,4 +1,4 @@
-Package: implant
+Package: abc
 Type: Package
 Title:  A High-throughput Phenotyping Pipeline for Image Processing and Functional Growth Curve Analysis
 Version: 0.1.0
